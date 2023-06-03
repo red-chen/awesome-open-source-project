@@ -2,5 +2,5 @@
 互联网上优秀的项目
 
 
-## Golang
-- [pterm](https://github.com/pterm/pterm) 漂亮的控制台程序输出库
+## 命令行工具
+- [pterm](https://github.com/pterm/pterm)  PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more. `Golang`
